@@ -219,7 +219,7 @@ function InvitationCard({ rsvpStatus, onRSVP }) {
 
       <section className="details">
         <DetailBlock title="Horario">
-          Sabado 4 DE JULIO, desde las 12:00 PM hasta que el cuerpo aguante. Nota: a las 19:00
+          SABADO 4 DE JULIO, desde las 12:00 PM hasta que el cuerpo aguante. Nota: a las 19:00
           podremos ver juntos la primera ronda de eliminatorias del Mundial.
         </DetailBlock>
 
